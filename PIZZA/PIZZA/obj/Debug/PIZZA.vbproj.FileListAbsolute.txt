@@ -16,3 +16,7 @@ C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PIZZA\PIZZA\obj\Debug\PIZZ
 C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PIZZA\PIZZA\obj\Debug\PIZZA.frmProductos.resources
 C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PIZZA\PIZZA\obj\Debug\PIZZA.FrmListaMateriales.resources
 C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\PIZZA\PIZZA\obj\Debug\PIZZA.frmArticulos.resources
+C:\Users\LENOVO\Source\Repos\FMEISC\PIZZAPALMI\PIZZA\PIZZA\bin\Debug\PIZZA.exe.config
+C:\Users\LENOVO\Source\Repos\FMEISC\PIZZAPALMI\PIZZA\PIZZA\obj\Debug\PIZZA.exe
+C:\Users\LENOVO\Source\Repos\FMEISC\PIZZAPALMI\PIZZA\PIZZA\obj\Debug\PIZZA.xml
+C:\Users\LENOVO\Source\Repos\FMEISC\PIZZAPALMI\PIZZA\PIZZA\obj\Debug\PIZZA.pdb
